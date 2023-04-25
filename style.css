@@ -1,0 +1,19 @@
+body {
+    background-color: #4AACD3;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+.cidade {
+    background-color: white;
+}
+
+.hab1, .hab3, .hab4 {
+    font-size: 20px;
+}
+
+.hab2 {
+    font-size: 30px;
+}
